@@ -1,7 +1,7 @@
-<?xml version="1.1"?> 
+<?xml version="4.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.0.1</version> 
+        <version>4.0.0.1</version> 
         <url>https://github.com/dennisripp/Test-updater/blob/master/Updater/updateme.txt</url> 
         <filePath>./updateme.txt"</filePath>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>

@@ -15,8 +15,8 @@ namespace TestApp
 
             label1.Text = ProductName + "\n" + ProductVersion;
 
-            updater = new QubedotUpdater(Assembly.GetExecutingAssembly(), this, new Uri("https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/project.xml"));
-            //updater = new SharpUpdater(Assembly.GetExecutingAssembly(), this, new Uri(new System.IO.FileInfo(@"..\..\..\project.xml").FullName));       // for local testing
+            updater = new QubedotUpdater(Assembly.GetExecutingAssembly(), this, new Uri("https://raw.githack.com/dennisripp/Testupdater/master/Updater/project.xml"));
+            // updater = new QubedotUpdater(Assembly.GetExecutingAssembly(), this, new Uri(@"C:\Users\denni\Desktop\Test updater\project.xml").FullName));       // for local testing
         }
 
         private void button1_Click(object sender, EventArgs e)
