@@ -1,0 +1,10 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <remove>
+        <filePath>./removeme - Kopie.txt"</filePath>
+	<md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
+        <description>Remove: 20/01/2020:
+        1. Test remove.</description> 
+        <launchArgs></launchArgs> 
+    </remove>
+</sharpUpdate>
