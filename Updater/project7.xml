@@ -1,0 +1,9 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <remove>
+        <filePath>./removeme - Kopie.txt"</filePath>
+        <description>Remove: 20/01/2020:
+        1. Test remove.</description> 
+        <launchArgs></launchArgs> 
+    </remove>
+</sharpUpdate>
