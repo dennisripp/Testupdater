@@ -1,34 +1,25 @@
-<?xml version="1.0"?> 
+<?xml version="1.1"?> 
 <sharpUpdate> 
     <update> 
-        <version>3.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
-        <filePath>./TestApp.exe</filePath>
+        <version>1.0.0.1</version> 
+        <url>https://github.com/dennisripp/Test-updater/blob/master/Updater/updateme.txt</url> 
+        <filePath>./updateme.txt"</filePath>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
-        <description>Update: 20/01/2020:
+        <description>Update: 26/01/2020:
         1. Updated a label.</description> 
-        <launchArgs></launchArgs> 
-    </update>
-    <update> 
-        <version>1.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/SharpUpdate.dll</url> 
-        <filePath>./SharpUpdate.dll</filePath>
-        <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
-        <description>Update: 20/01/2020:
-        1. Support for multiple files updating.</description> 
         <launchArgs></launchArgs> 
     </update>
     <add> 
         <version>1.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/SharpUpdate.dll</url> 
-        <filePath>./test_add/SharpUpdate_test_add.dll</filePath>
+        <url>https://github.com/dennisripp/Test-updater/blob/master/Updater/addnew.txt</url> 
+        <filePath>./addnewtest.txt</filePath>
         <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
         <description>Add: 20/01/2020:
         1. Test add.</description> 
         <launchArgs></launchArgs> 
     </add>
     <remove>
-        <filePath>./test_remove/SharpUpdate - Copy.dll</filePath>
+        <filePath>"C:\Users\denni\Desktop\Test updater\Updater\removeme - Kopie.txt"</filePath>
         <description>Remove: 20/01/2020:
         1. Test remove.</description> 
         <launchArgs></launchArgs> 
