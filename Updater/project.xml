@@ -1,9 +1,3 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <remove>
-        <filePath>./test_remove/SharpUpdate - Copy.dll</filePath>
-        <description>Remove: 10/06/2018:
-        1. Test remove.</description> 
-        <launchArgs></launchArgs> 
-    </remove>
 </sharpUpdate>
