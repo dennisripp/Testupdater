@@ -17,7 +17,7 @@
     </update>
     <update> 
         <version>1.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/QubedotUpdate.dll</url> 
+        <url>https://raw.githack.com/dennisripp/Testupdater/raw/master/Updater/TestApp/bin/Debug/QubedotUpdate.dll</url> 
         <filePath>./QubedotUpdate.dll</filePath>
         <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
         <description>Update: 10/06/2018:
