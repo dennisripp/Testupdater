@@ -1,5 +1,5 @@
 <?xml version="1.0"?> 
-<sharpUpdate>     
+<QubedotUpdate>     
 	<remove>
         <filePath>./removeme.txt</filePath>
         <description>Remove: 10/06/2018:
@@ -35,4 +35,4 @@
     </add>
  
 
-</sharpUpdate>
+</QubedotUpdate>
