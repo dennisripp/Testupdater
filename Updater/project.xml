@@ -26,8 +26,8 @@
     </update>
     <add> 
         <version>1.0.0.0</version> 
-         <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/QubedotUpdate.dll</url> 
-        <filePath>./test_add/QubedotUpdate_test_add.dll</filePath>
+         <url>https://raw.githack.com/dennisripp/Testupdater/master/Updater/updateme.txt</url> 
+        <filePath>./QubedotUpdate_test_add.dll</filePath>
         <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
         <description>Add: 10/06/2018:
         1. Test add.</description> 
