@@ -1,5 +1,5 @@
 <?xml version="1.0"?> 
-<sharpUpdate> 
+<QubedotUpdate> 
     <update> 
 	<update> 
         <version>4.0.0.0</version> 
@@ -34,4 +34,4 @@
         1. Test remove.</description> 
         <launchArgs></launchArgs> 
     </remove>
-</sharpUpdate>
+</QubedotUpdate>
